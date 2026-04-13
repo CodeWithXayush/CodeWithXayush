@@ -6,7 +6,7 @@
 
 
 
----
+
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -26,19 +26,11 @@
 * 📈 Focused on **business insights & decision-making**
 * ⚡ Passionate about solving problems using data
 
----
 
-## 🧠 Core Skills
 
-| Category         | Skills                       |
-| ---------------- | ---------------------------- |
-| 📊 Data Analysis | Pandas, NumPy, SQL           |
-| 📈 Visualization | Power BI, Matplotlib, Plotly |
-| 💻 Programming   | Python, Java                 |
-| 🗄️ Databases    | MySQL, MongoDB               |
-| ⚙️ Tools         | Git, Streamlit, MLflow       |
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-data/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ayush00418149) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:10ashahi@gmail.com) 
 
----
 
 ## 🚀 Projects
 
@@ -61,7 +53,7 @@
 
 * Developed recommendation engine
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -73,7 +65,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -83,7 +75,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
