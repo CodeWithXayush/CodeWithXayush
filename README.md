@@ -47,13 +47,14 @@
 
 
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithXayush&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithXayush&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithXayush&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeWithXayush&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
