@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60&descSize=18" width="100%" />
 
 </div>
 
@@ -60,12 +60,12 @@
 
 ### ⏱️ Delivery Time Prediction
 
-* Built predictive ML model
+* Built predictive model
 * Improved operational planning
 
 ### 🎯 Recommendation System
 
-* Developed personalized recommendation engine
+* Developed recommendation engine
 
 ---
 
@@ -73,9 +73,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithXayush&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWithXayush&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithXayush&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithXayush&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
