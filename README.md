@@ -4,13 +4,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C4CC&center=true&vCenter=true&width=650&lines=📊+Data+Analysis+%7C+SQL+%7C+Power+BI;🐍+Python+%7C+EDA+%7C+Visualization;📈+Turning+Data+into+Business+Insights" />
-
-</div>
 
 ---
 
